@@ -13,57 +13,146 @@
   },
   "obras": [
     {
-      "number": "00000000",
-      "descr": "In vitae facilisis neque, et eleifend metus. ",
-      "value": "R$ 12.356.442,65",
-      "cicle": {
-        "type": 3,
-        "completed": {
-          "start": false,
-          "measure": false,
-          "final": false,
-          "deliver": false
-        }
-      }
+       "id":"00000",
+       "jurisdicionadoId":"1",
+       "tipoObra":{
+          "id":"1",
+          "name":"Escola",
+          "unidade":"m²",
+          "tipoGeorreferenciamento":"kml",
+          "apenasGeometria":"false"
+       },
+       "planilhaContratadaId":"1",
+       "projetoBasicoId":"1",
+       "complexoId":"1",
+       "administracaoDiretaId":"1",
+       "descricao":"In vitae facilisis neque, et eleifend metus. ",
+       "numeroObra":"00000",
+       "numeroContrato":"00000",
+       "dimensao":"00000",
+       "valor":"150000",
+       "dataInicio":"01/01/2021",
+       "dataPrevisaoEntrega":"01/01/2021",
+       "dataEntrega":"01/01/2021",
+       "tipoExecucao":"Lorem",
+       "endereco":"Lorem",
+       "cep":"Lorem",
+       "patrimonioIncorporavel":true,
+       "type":"1",
+       "cicle?":{
+          "completed":{
+             "start":"true",
+             "measure?":" false",
+             "final?":"false",
+             "deliver":"false"
+          }
+       }
     },
     {
-      "number": "00000001",
-      "descr": "In vitae facilisis neque, et eleifend metus. ",
-      "value": "R$ 29.311,20",
-      "cicle": {
-        "type": 1,
-        "completed": {
-          "start": true,
-          "deliver": false
-        }
-      }
-    },
-    {
-      "number": "00000002",
-      "descr": "In vitae facilisis neque, et eleifend metus. ",
-      "value": "R$ 142.112.102,30",
-      "cicle": {
-        "type": 3,
-        "completed": {
-          "start": true,
-          "measure": false,
-          "final": false,
-          "deliver": false
-        }
-      }
-    },
-    {
-      "number": "00000004",
-      "descr": "In vitae facilisis neque, et eleifend metus. ",
-      "value": "R$ 142.123,12",
-      "cicle": {
-        "type": 2,
-        "completed": {
-          "start": true,
-          "final": true,
-          "deliver": true
-        }
-      }
+       "id":"00000",
+       "jurisdicionadoId":"1",
+       "tipoObra":{
+          "id":"1",
+          "name":"Escola",
+          "unidade":"m²",
+          "tipoGeorreferenciamento":"kml",
+          "apenasGeometria":"false"
+       },
+       "planilhaContratadaId":"1",
+       "projetoBasicoId":"1",
+       "complexoId":"1",
+       "administracaoDiretaId":"1",
+       "descricao":"In vitae facilisis neque, et eleifend metus. ",
+       "numeroObra":"00000",
+       "numeroContrato":"00000",
+       "dimensao":"00000",
+       "valor":"150000",
+       "dataInicio":"01/01/2021",
+       "dataPrevisaoEntrega":"01/01/2021",
+       "dataEntrega":"01/01/2021",
+       "tipoExecucao":"Lorem",
+       "endereco":"Lorem",
+       "cep":"Lorem",
+       "patrimonioIncorporavel":true,
+       "type":"1",
+       "cicle?":{
+          "completed":{
+             "start":"true",
+             "measure?":" false",
+             "final?":"false",
+             "deliver":"false"
+          }
+       }
+    },{
+       "id":"00000",
+       "jurisdicionadoId":"1",
+       "tipoObra":{
+          "id":"1",
+          "name":"Escola",
+          "unidade":"m²",
+          "tipoGeorreferenciamento":"kml",
+          "apenasGeometria":"false"
+       },
+       "planilhaContratadaId":"1",
+       "projetoBasicoId":"1",
+       "complexoId":"1",
+       "administracaoDiretaId":"1",
+       "descricao":"In vitae facilisis neque, et eleifend metus. ",
+       "numeroObra":"00000",
+       "numeroContrato":"00000",
+       "dimensao":"00000",
+       "valor":"150000",
+       "dataInicio":"01/01/2021",
+       "dataPrevisaoEntrega":"01/01/2021",
+       "dataEntrega":"01/01/2021",
+       "tipoExecucao":"Lorem",
+       "endereco":"Lorem",
+       "cep":"Lorem",
+       "patrimonioIncorporavel":true,
+       "type":"1",
+       "cicle?":{
+          "completed":{
+             "start":"true",
+             "measure?":" false",
+             "final?":"false",
+             "deliver":"false"
+          }
+       }
+    },{
+       "id":"00000",
+       "jurisdicionadoId":"1",
+       "tipoObra":{
+          "id":"1",
+          "name":"Escola",
+          "unidade":"m²",
+          "tipoGeorreferenciamento":"kml",
+          "apenasGeometria":"false"
+       },
+       "planilhaContratadaId":"1",
+       "projetoBasicoId":"1",
+       "complexoId":"1",
+       "administracaoDiretaId":"1",
+       "descricao":"In vitae facilisis neque, et eleifend metus. ",
+       "numeroObra":"00000",
+       "numeroContrato":"00000",
+       "dimensao":"00000",
+       "valor":"150000",
+       "dataInicio":"01/01/2021",
+       "dataPrevisaoEntrega":"01/01/2021",
+       "dataEntrega":"01/01/2021",
+       "tipoExecucao":"Lorem",
+       "endereco":"Lorem",
+       "cep":"Lorem",
+       "patrimonioIncorporavel":true,
+       "type":"1",
+       "cicle?":{
+          "completed":{
+             "start":"true",
+             "measure?":" false",
+             "final?":"false",
+             "deliver":"false"
+          }
+       }
     }
   ]
 }
